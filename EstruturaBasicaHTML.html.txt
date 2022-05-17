@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<meta charset ="UTF-8"/>
+
+<title>Desafio DIO Git/Github</title>
+
+ <body>
+     <h1>
+	Estrutura basica HTML
+     </h1>
+
+     <p>
+	Mussum Ipsum, cacilds vidis litro abertis. </br>
+	Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.</br>
+	Mé faiz elementum girarzis, nisi eros vermeio.
+	Viva Forevis aptent taciti sociosqu ad litora torquent.</br>
+	Cevadis im ampola pa arma uma pindureta.
+     </p>
+
+ </body>
+
+</head>
+</html>
